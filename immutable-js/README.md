@@ -1,0 +1,1 @@
+https://spin.atomicobject.com/2016/09/27/typed-redux-reducers-typescript-2-0/

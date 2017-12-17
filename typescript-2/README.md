@@ -1,0 +1,1 @@
+https://rjzaworski.com/2016/08/getting-started-with-redux-and-typescript
